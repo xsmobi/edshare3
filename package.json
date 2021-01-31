@@ -1,0 +1,19 @@
+{
+  "name": "edshare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Eckard Ritter",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "v14.15.1"
+  }
+}
